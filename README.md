@@ -1,7 +1,7 @@
-#Portfolio
+# Portfolio
 
 
-##View deployed portfolio at:
+## View deployed portfolio at:
 https://khushboodev.netlify.app/
 
 
